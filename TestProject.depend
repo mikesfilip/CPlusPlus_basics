@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1478871607 source:c:\users\mikes\testproject\main.cpp
+	<iostream>
+	"BackPack.h"
+	"references.h"
+	"Functions.h"
+
+1467320833 c:\users\mikes\testproject\include\backpack.h
+
+1467320857 source:c:\users\mikes\testproject\src\backpack.cpp
+	<iostream>
+	<string>
+	"BackPack.h"
+
+1478872046 c:\users\mikes\testproject\include\references.h
+	"stdio.h"
+
+1478871176 c:\users\mikes\testproject\include\functions.h
+
