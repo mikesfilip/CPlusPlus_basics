@@ -5,6 +5,8 @@
 	"references.h"
 	"Functions.h"
 
+1478871607 .h"
+
 1467320833 c:\users\mikes\testproject\include\backpack.h
 
 1467320857 source:c:\users\mikes\testproject\src\backpack.cpp
@@ -12,8 +14,30 @@
 	<string>
 	"BackPack.h"
 
+1467320857 h"
+
 1478872046 c:\users\mikes\testproject\include\references.h
 	"stdio.h"
 
+1478872046 
+
 1478871176 c:\users\mikes\testproject\include\functions.h
+
+1479497164 source:/home/filip/CodeBlocks/CPlusPlus_basics/main.cpp
+	<iostream>
+	"BackPack.h"
+	"references.h"
+	"Functions.h"
+
+1479486166 /home/filip/CodeBlocks/CPlusPlus_basics/include/BackPack.h
+
+1479486166 /home/filip/CodeBlocks/CPlusPlus_basics/include/references.h
+	"stdio.h"
+
+1479486166 /home/filip/CodeBlocks/CPlusPlus_basics/include/Functions.h
+
+1479486166 source:/home/filip/CodeBlocks/CPlusPlus_basics/src/BackPack.cpp
+	<iostream>
+	<string>
+	"BackPack.h"
 
