@@ -8,8 +8,6 @@ using namespace std;
 int main()
 {
     //BackPack *b = new BackPack;
-
-
     //references();
     divide(50,2);
 
